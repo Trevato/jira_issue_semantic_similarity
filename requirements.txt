@@ -1,0 +1,3 @@
+txtai
+atlassian-python-api
+python-dotenv
